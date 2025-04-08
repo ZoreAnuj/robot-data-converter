@@ -1,6 +1,6 @@
 # Robot Data Converter
 
-A Python script for converting robot data collection from source format to a standardized format with parquet files and MP4 videos.
+A Python script for converting robot data collection from robotdata LR format to a LeRobotv2 format with parquet files and MP4 videos.
 
 ## Features
 
